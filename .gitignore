@@ -16,6 +16,7 @@
 *.metallib
 *.etag
 *.lastModified
+*.raw
 .DS_Store
 .build/
 .cache/
